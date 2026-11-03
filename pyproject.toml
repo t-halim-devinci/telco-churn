@@ -20,6 +20,7 @@ dependencies = [
     "pip",
     "python-dotenv",
     "ruff",
+    "scikit-learn>=1.9.1",
 ]
 requires-python = "~=3.12.0"
 
